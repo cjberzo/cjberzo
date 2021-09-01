@@ -1,6 +1,6 @@
 ## CARLOS BERZO
 
-My Name is Carlos, i´m fron Argentina.
+My Name is Carlos, I´m from Argentina.
 
 * Currently working fon INNOVA BUSSINESS CONSULTING as a Devops Infrastructure in Wethein Group
 
