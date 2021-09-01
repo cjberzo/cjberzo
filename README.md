@@ -2,7 +2,7 @@
 
 My Name is Carlos, I´m from Argentina.
 
-* Currently working fon INNOVA BUSSINESS CONSULTING as a Devops Infrastructure in Wethein Group
+* Currently working for INNOVA BUSSINESS CONSULTING as Infrastructure Devops in Wethein Group
 
 ## SKILLS
 
@@ -16,4 +16,5 @@ My Name is Carlos, I´m from Argentina.
 ## CONTACT
 
 carlosberzo@gmail.com
+
 https://www.linkedin.com/in/carlos-berzo-092552104
