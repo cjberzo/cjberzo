@@ -2,7 +2,7 @@
 
 My Name is Carlos, I´m from Argentina.
 
-* Currently working for INNOVA BUSSINESS CONSULTING as Infrastructure Devops in Wethein Group
+* Currently working for INNOVA BUSSINESS CONSULTING as Infrastructure Devops in Werthein Group
 
 ## SKILLS
 
