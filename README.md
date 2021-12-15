@@ -10,7 +10,7 @@ My Name is Carlos, I´m from Argentina.
 * Linux
 * Terraform
 * Docker
-* Github
+* Git
 * Some bash scripting
 
 ## CONTACT
