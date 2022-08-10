@@ -6,8 +6,10 @@ My Name is Carlos, I´m from Argentina.
 
 ## SKILLS
 
-* AWS (ECS, IAM, ElasticBeanstalk, Cloudwacth, RDS, S3, Route53, AmazonMQ, VPC, EC2, Amplify)
+* AWS (EKS, ECS, ECR, IAM, ElasticBeanstalk, Cloudwacth, RDS, S3, Route53, AmazonMQ, VPC, EC2, Amplify)
 * Linux
+* Kubernetes
+* Grafana
 * Terraform
 * Docker
 * Git
