@@ -8,12 +8,16 @@ My Name is Carlos, I´m from Argentina.
 
 * AWS (EKS, ECS, ECR, IAM, ElasticBeanstalk, Cloudwacth, RDS, S3, Route53, AmazonMQ, VPC, EC2, Amplify)
 * Linux
-* Kubernetes
-* Grafana
+* Kubernetes / Helm / Karpenter
+* Docker
+* Grafana / Prometheus
 * Terraform
 * Docker
 * Git
+* Github Actions / Argo CD
+* Vault
 * Some bash scripting
+* Jira
 
 ## CONTACT
 
