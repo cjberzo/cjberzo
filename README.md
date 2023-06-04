@@ -1,8 +1,10 @@
-## CARLOS BERZO
+ CARLOS BERZO
 
-My Name is Carlos, I´m from Argentina.
+Graduated as a business manager, I worked for twelve years in an Oil&Gas company. Looking for new challenges and in addition to my interest in IT, I started to learn about SRE and Devops culture on my own. Nowadays i have worked for three years in this field. My main objetive is to improve my skills and knowledge in order to gain more experience in this position.
 
-* Currently working for https://clicoh.com/ as Infrastructure Devops.
+* Currently working for https://www.globallogic.com/ as Devops Engineer.
+
+AWS Certified Solutions Architect – Associate
 
 ## SKILLS
 
